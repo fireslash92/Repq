@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict'); const S=require('../state.js');
+let s=S.initial(); assert.equal(s.stage,0);assert.equal(S.accept(s),true);assert.equal(S.accept(s),false);
+let e={kind:'forest',hp:58};assert.equal(S.turn(s,e,'skill').damage,13);assert.equal(S.turn(s,e,'skill').won,true);assert.equal(s.stage,2);assert.equal(s.gold,30);assert.equal(s.potions,4);
+assert.equal(S.turn(s,e,'attack').ok,false);assert.equal(S.relic(s),false);assert.equal(S.finish(s),false);
+s.skill=2;e={kind:'crypt',hp:104};S.turn(s,e,'skill');S.turn(s,e,'skill');assert.equal(S.turn(s,e,'skill').ok,false);assert.equal(S.turn(s,e,'guard').damage,3);assert.equal(s.skill,1);S.turn(s,e,'skill');assert.equal(S.turn(s,e,'attack').won,true);assert.equal(s.stage,3);
+assert.equal(S.relic(s),true);assert.equal(s.relic,true);assert.equal(S.relic(s),false);assert.equal(S.finish(s),true);assert.equal(s.hp,100);assert.equal(s.gold,142);assert.equal(S.finish(s),false);
+assert.equal(S.heal(s),false);s.hp=30;assert.equal(S.heal(s),true);assert.equal(s.hp,75);assert.equal(s.potions,3);s.potions=0;assert.equal(S.heal(s),false);
+let saved=S.normalize(JSON.parse(JSON.stringify(s)));assert.equal(saved.stage,5);assert.equal(saved.relic,true);assert.equal(saved.potions,0);assert.equal(S.normalize({version:1,stage:99,hp:-9,x:1000,z:-1000}).stage,5);assert.equal(S.normalize({version:1,stage:99,hp:-9,x:1000,z:-1000}).hp,1);assert.equal(S.normalize({version:1,x:1000}).x,23);assert.equal(S.normalize({version:1,z:-1000}).z,-29);
+s=S.initial();S.accept(s);s.hp=1;e={kind:'forest',hp:58};assert.equal(S.turn(s,e,'attack').lost,true);assert.equal(s.hp,0);
+console.log('PASS: quest gates, both combat encounters, skill/guard, potion, relic, completion, duplicate rewards, save normalization and defeat');
