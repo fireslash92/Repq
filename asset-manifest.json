@@ -1,0 +1,186 @@
+{
+  "knight": {
+    "pack": "a",
+    "repository": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "revision": "672074b73ba276876a19e8816ecdc5241817ab47",
+    "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
+    "local": "assets/selected/a/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb"
+  },
+  "mage": {
+    "pack": "a",
+    "repository": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "revision": "672074b73ba276876a19e8816ecdc5241817ab47",
+    "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+    "local": "assets/selected/a/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb"
+  },
+  "rogue": {
+    "pack": "a",
+    "repository": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "revision": "672074b73ba276876a19e8816ecdc5241817ab47",
+    "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+    "local": "assets/selected/a/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb"
+  },
+  "skeleton": {
+    "pack": "s",
+    "repository": "KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+    "revision": "15b62b9bad122f72926c10fb14d622c73819fa54",
+    "path": "addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
+    "local": "assets/selected/s/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb"
+  },
+  "minion": {
+    "pack": "s",
+    "repository": "KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+    "revision": "15b62b9bad122f72926c10fb14d622c73819fa54",
+    "path": "addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
+    "local": "assets/selected/s/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb"
+  },
+  "house": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_A_blue.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_A_blue.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_A_blue.gltf"
+  },
+  "houseB": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_B_blue.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_B_blue.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_B_blue.gltf"
+  },
+  "tavern": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_tavern_blue.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_tavern_blue.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_tavern_blue.gltf"
+  },
+  "market": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_market_blue.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_market_blue.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_market_blue.gltf"
+  },
+  "well": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_well_blue.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_well_blue.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_well_blue.gltf"
+  },
+  "castle": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_castle_blue.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_castle_blue.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_castle_blue.gltf"
+  },
+  "tree": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/tree_single_A.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/tree_single_A.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/tree_single_A.gltf"
+  },
+  "treeB": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/tree_single_B.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/tree_single_B.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/tree_single_B.gltf"
+  },
+  "rock": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/rock_single_A.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/rock_single_A.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/rock_single_A.gltf"
+  },
+  "mountain": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/mountain_A_grass_trees.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/mountain_A_grass_trees.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/nature/mountain_A_grass_trees.gltf"
+  },
+  "crate": {
+    "pack": "m",
+    "repository": "KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+    "path": "addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/props/crate_A_big.gltf",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/props/crate_A_big.gltf",
+    "local": "assets/selected/m/addons/kaykit_medieval_hexagon_pack/Assets/gltf/decoration/props/crate_A_big.gltf"
+  },
+  "wall": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/wall.gltf.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/wall.gltf.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/wall.gltf.glb"
+  },
+  "arch": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/wall_arched.gltf.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/wall_arched.gltf.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/wall_arched.gltf.glb"
+  },
+  "floor": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/floor_tile_large.gltf.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/floor_tile_large.gltf.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/floor_tile_large.gltf.glb"
+  },
+  "torch": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/torch_lit.gltf.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/torch_lit.gltf.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/torch_lit.gltf.glb"
+  },
+  "chest": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/chest_gold.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/chest_gold.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/chest_gold.glb"
+  },
+  "pillar": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/pillar_decorated.gltf.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/pillar_decorated.gltf.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/pillar_decorated.gltf.glb"
+  },
+  "banner": {
+    "pack": "d",
+    "repository": "KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "revision": "b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07",
+    "path": "addons/kaykit_dungeon_remastered/Assets/gltf/banner_patternA_blue.gltf.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/b0ca9bd96a8072ab36a3a5464f00ed1e06a16d07/addons/kaykit_dungeon_remastered/Assets/gltf/banner_patternA_blue.gltf.glb",
+    "local": "assets/selected/d/addons/kaykit_dungeon_remastered/Assets/gltf/banner_patternA_blue.gltf.glb"
+  }
+}
